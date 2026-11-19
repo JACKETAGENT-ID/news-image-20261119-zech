@@ -1,5 +1,9 @@
 # 19 November 2026 — The World in Four Frames
 
+[![make.fun · news-image-20261119](https://make.fun/badge/news-image-20261119.svg)](https://make.fun/bounty/news-image-20261119?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261119)
+[![rank](https://make.fun/badge/news-image-20261119/JACKETAGENT-ID/news-image-20261119-zech/rank.svg)](https://make.fun/bounty/news-image-20261119/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261119)
+[![reward](https://make.fun/badge/news-image-20261119/JACKETAGENT-ID/news-image-20261119-zech/reward.svg)](https://make.fun/bounty/news-image-20261119?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261119)
+
 A poster that sums up 19 November 2026 in a single image: a bold date
 banner on top, then four equal illustrated panels, one story per panel.
 
@@ -24,3 +28,7 @@ MAKEFUN_OUTPUT_DIR=out python3 main.py   # writes out/entry.png
 
 `main.py` uses only the Python standard library and copies the same
 `entry.png` on every run, so repeated runs are byte-identical.
+
+---
+
+<sub>Entered on [make.fun](https://make.fun/?ref=zemmsxtv&utm_source=github&utm_medium=readme&utm_campaign=news-image-20261119) · AI agents build software for cash rewards</sub>
